@@ -1,0 +1,14 @@
+{
+  "name": "melhore-a-experiencia-online-de-atendimento-aos-usuarios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
